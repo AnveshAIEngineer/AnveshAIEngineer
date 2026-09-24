@@ -30,11 +30,15 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
 
 ### 💻 Programming
 
-**Python**
+<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
 ### 📊 Data Analysis
-
-**Pandas • NumPy • Data Cleaning • Exploratory Data Analysis (EDA)**
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3B4uddKsWsn2b6djQk2p_hCGRS0W10tQk3WKG3QDV_ZISxjRHHFiWaw&s=10" width="60"/>
+  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="60"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRvucnL4lKXoKiNm5dTtZUqLFFNsmW8L8jdXQX7IaK2jBQ_-0-dnCclXO&s=10" width="60"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*PavIGBu7ofDoQqp4.jpg" width="60"/>
+</p>
 
 ### 🕷️ Web Scraping
 
