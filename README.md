@@ -16,7 +16,7 @@ AI & Data Science Engineer | Python | Data Analytics | Machine Learning
 
 - 🎓 B.Tech in Computer Engineering – Artificial Intelligence & Data Science
 - 🐍 Interested in Python, Data Analytics, Machine Learning and AI
-- 📊 Currently building practical Data Analysis and EDA projects
+- 📊 Building practical Data Analysis and Exploratory Data Analysis projects
 - 🌱 Currently learning Power BI and strengthening my Machine Learning skills
 - 💡 I learn best by building and experimenting with real-world datasets
 - ☕ Fun fact: Coffee + Code = Productivity
@@ -25,29 +25,34 @@ AI & Data Science Engineer | Python | Data Analytics | Machine Learning
 
 ## 🛠️ Skills
 
-### Programming & Data
+### 💻 Programming & Data Analysis
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" alt="Python NumPy Pandas"/>
 </p>
 
-### Web Scraping
+**Python • Pandas • NumPy • Data Cleaning • Exploratory Data Analysis (EDA)**
+
+### 🌐 Web Scraping
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" width="50" alt="BeautifulSoup"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 **BeautifulSoup • Requests • Regex • Web Scraping**
 
-### Tools
+### 📊 Data Visualization
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter,git,github" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib"/>
+</p>
+
+**Matplotlib • Seaborn**
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jupyter,git,github" alt="Jupyter Git GitHub"/>
 </p>
 
 **Jupyter Notebook • Git • GitHub**
@@ -89,8 +94,9 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnveshAIEngineer&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshAIEngineer&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnveshAIEngineer&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180" alt="GitHub Statistics"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshAIEngineer&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -98,7 +104,7 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnveshAIEngineer&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AnveshAIEngineer&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -106,7 +112,9 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnveshAIEngineer&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+  <a href="https://github.com/AnveshAIEngineer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnveshAIEngineer&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+  </a>
 </p>
 
 ---
@@ -124,15 +132,15 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 <p align="left">
 
 <a href="https://linkedin.com/in/anvesh-hirve" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.leetcode.com/anveshhirve" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
+<a href="https://leetcode.com/anveshhirve/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="45" alt="LeetCode"/>
 </a>
 
 <a href="https://www.codechef.com/users/anvesh1407" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40" height="40" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-Profile-orange?style=flat&logo=codechef&logoColor=white" height="40" alt="CodeChef"/>
 </a>
 
 </p>
