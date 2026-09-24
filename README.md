@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anvesh Hirve</h1>
 
-<h3 align="center">AI & Data Science Engineer | Machine Learning | Generative AI | Data Analytics</h3>
+<h3 align="center">AI & Data Science Engineer | Data Analysis | Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/AnveshAIEngineer">
@@ -15,109 +15,87 @@
 
 ## 👨‍💻 About Me
 
-I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about building intelligent, data-driven solutions and solving real-world problems using modern AI technologies.
+I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working with data, discovering meaningful patterns, and solving real-world problems through data-driven approaches.
 
-* 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, and AI Engineering**
-* 📊 Experienced in **Data Analysis, EDA, Data Cleaning, and Data Visualization**
+* 📊 Interested in **Data Analysis, Exploratory Data Analysis, and Machine Learning**
+* 🐍 Strong focus on **Python and data analysis**
 * 🕷️ Hands-on experience with **Web Scraping and real-world datasets**
-* 🚀 Building practical projects involving **RAG, Multi-Agent Systems, and Generative AI**
-* ☁️ Exploring **Cloud, DevOps, and AI deployment workflows**
-* 🌱 Continuously learning through **hands-on projects and practical problem solving**
-* 💡 I enjoy transforming raw data and complex problems into **useful, real-world applications**
+* 📈 Enjoy creating visualizations and extracting meaningful insights from data
+* 💡 Interested in turning raw data into **useful business insights**
+* 🌱 Continuously improving my skills through **hands-on projects and practical learning**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 💻 Programming & Data
+### 💻 Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
-</p>
+**Python**
 
-**Python • Pandas • NumPy • Data Cleaning • EDA**
+### 📊 Data Analysis
 
-### 📊 Data Visualization & Analytics
-
-**Matplotlib • Seaborn • Power BI**
+**Pandas • NumPy • Data Cleaning • Exploratory Data Analysis (EDA)**
 
 ### 🕷️ Web Scraping
 
 **BeautifulSoup • Requests • Regex • Web Scraping**
 
-### 🤖 AI & Machine Learning
+### 📈 Data Visualization
 
-**Machine Learning • Generative AI • RAG • Multi-Agent Systems**
+**Matplotlib • Seaborn**
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,aws,flask" height="50" />
-</p>
-
-**Jupyter Notebook • Git • GitHub • Docker • Jenkins • AWS • Flask**
+**Jupyter Notebook • Git • GitHub**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Multi-AI Agent Application
-
-A multi-agent AI application designed to handle different tasks through specialized AI agents.
-
-**Technologies:** Python, Groq, LangChain, LangGraph, FastAPI, Streamlit, Docker, AWS
-
----
-
-### 🏥 Medical RAG Chatbot
-
-An AI-powered Retrieval-Augmented Generation application that retrieves relevant information from medical documents and generates contextual responses.
-
-**Technologies:** Python, Groq, LangChain, FAISS, Flask, Docker, Jenkins, AWS
-
----
-
 ### 🚗 Used Car Market Analysis
 
-An exploratory data analysis project using real-world used-car data to identify patterns and trends related to pricing, mileage, ownership, brands, fuel types, and other market factors.
+An exploratory data analysis project using real-world used-car data to understand pricing, mileage, ownership, brands, fuel types, transmission, and other market trends.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Requests, Regex
 
 ---
 
 ### 💻 Laptop Market Analysis
 
-A data analysis project focused on laptop brands, pricing, specifications, discounts, and market segments to extract useful business insights.
+A data analysis project focused on laptop brands, pricing, specifications, discounts, and market segments to identify useful patterns and business insights.
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-## 📈 What I'm Currently Focused On
+### 🏍️ Bike Market Analysis
+
+A web scraping and exploratory data analysis project using motorcycle data to analyze brands, pricing, mileage, engine capacity, ratings, and other bike characteristics.
+
+**Technologies:** Python, BeautifulSoup, Requests, Pandas, NumPy, Matplotlib, Seaborn, Regex
+
+---
+
+## 📈 What I Work With
 
 ```text
-Data Science        ████████████████████
-Machine Learning    ██████████████████░░
-Generative AI       █████████████████░░░
-AI Engineering      ████████████████░░░░
-Cloud & DevOps      ██████████████░░░░░░
+Python              ████████████████████
+Data Analysis       ███████████████████░
+EDA                 ██████████████████░░
+Web Scraping        █████████████████░░░
+Data Visualization  ████████████████░░░░
 ```
 
 ---
 
-## 🎯 Current Learning
+## 🌱 Currently Learning
 
-🌱 Strengthening my skills in:
-
+* Data Science
+* Exploratory Data Analysis
 * Machine Learning
-* Generative AI
-* RAG Systems
-* Agentic AI
-* Data Analytics
-* AI Engineering
-* Cloud & DevOps
+* Data Visualization
+* Advanced Python
+* Practical Data Analytics
 
 ---
 
@@ -130,11 +108,11 @@ Cloud & DevOps      ██████████████░░░░░░
   <a href="https://www.hackerrank.com/profile/anvesh_hirve_ai">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:anvesh.hirve.ai@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🚀 Building. Learning. Improving. 🚀</h3>
+<h3 align="center">🚀 Learning • Building • Analyzing • Improving 🚀</h3>
