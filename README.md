@@ -1,52 +1,140 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Anvesh Hirve</h1>
 
-###
+<h3 align="center">AI & Data Science Engineer | Machine Learning | Generative AI | Data Analytics</h3>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.hackerrank.com/profile/anvesh_hirve_ai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+<p align="center">
+  <a href="https://github.com/AnveshAIEngineer">
+    <img src="https://img.shields.io/badge/GitHub-AnveshAIEngineer-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+  <a href="https://www.hackerrank.com/profile/anvesh_hirve_ai">
+    <img src="https://img.shields.io/badge/HackerRank-Anvesh_Hirve_AI-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AnveshAIEngineer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 👨‍💻 About Me
 
-###
+I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about building intelligent, data-driven solutions and solving real-world problems using modern AI technologies.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnveshAIEngineer/AnveshAIEngineer/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, and AI Engineering**
+* 📊 Experienced in **Data Analysis, EDA, Data Cleaning, and Data Visualization**
+* 🕷️ Hands-on experience with **Web Scraping and real-world datasets**
+* 🚀 Building practical projects involving **RAG, Multi-Agent Systems, and Generative AI**
+* ☁️ Exploring **Cloud, DevOps, and AI deployment workflows**
+* 🌱 Continuously learning through **hands-on projects and practical problem solving**
+* 💡 I enjoy transforming raw data and complex problems into **useful, real-world applications**
 
-###
+---
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### 💻 Programming & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+</p>
+
+**Python • Pandas • NumPy • Data Cleaning • EDA**
+
+### 📊 Data Visualization & Analytics
+
+**Matplotlib • Seaborn • Power BI**
+
+### 🕷️ Web Scraping
+
+**BeautifulSoup • Requests • Regex • Web Scraping**
+
+### 🤖 AI & Machine Learning
+
+**Machine Learning • Generative AI • RAG • Multi-Agent Systems**
+
+### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,aws,flask" height="50" />
+</p>
+
+**Jupyter Notebook • Git • GitHub • Docker • Jenkins • AWS • Flask**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Multi-AI Agent Application
+
+A multi-agent AI application designed to handle different tasks through specialized AI agents.
+
+**Technologies:** Python, Groq, LangChain, LangGraph, FastAPI, Streamlit, Docker, AWS
+
+---
+
+### 🏥 Medical RAG Chatbot
+
+An AI-powered Retrieval-Augmented Generation application that retrieves relevant information from medical documents and generates contextual responses.
+
+**Technologies:** Python, Groq, LangChain, FAISS, Flask, Docker, Jenkins, AWS
+
+---
+
+### 🚗 Used Car Market Analysis
+
+An exploratory data analysis project using real-world used-car data to identify patterns and trends related to pricing, mileage, ownership, brands, fuel types, and other market factors.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup
+
+---
+
+### 💻 Laptop Market Analysis
+
+A data analysis project focused on laptop brands, pricing, specifications, discounts, and market segments to extract useful business insights.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+## 📈 What I'm Currently Focused On
+
+```text
+Data Science        ████████████████████
+Machine Learning    ██████████████████░░
+Generative AI       █████████████████░░░
+AI Engineering      ████████████████░░░░
+Cloud & DevOps      ██████████████░░░░░░
+```
+
+---
+
+## 🎯 Current Learning
+
+🌱 Strengthening my skills in:
+
+* Machine Learning
+* Generative AI
+* RAG Systems
+* Agentic AI
+* Data Analytics
+* AI Engineering
+* Cloud & DevOps
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/AnveshAIEngineer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/anvesh_hirve_ai">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Building. Learning. Improving. 🚀</h3>
