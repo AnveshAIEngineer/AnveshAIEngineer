@@ -1,190 +1,40 @@
-# 👋 Hi, I'm Anvesh Hirve
+<h1 align="center">Hi 👋, I'm Anvesh Hirve</h1>
+<h3 align="center">A passionate AI Engineer from India</h3>
 
-### 🤖 AI & Data Science Enthusiast | Python Developer | Aspiring AI Engineer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anveshaiengineer&label=Profile%20views&color=0e75b6&style=flat" alt="anveshaiengineer" /> </p>
 
-I'm a B.Tech Computer Engineering graduate specializing in **Artificial Intelligence & Data Science**, passionate about building practical solutions using **Python, Data Science, Machine Learning, and AI**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anveshaiengineer" alt="anveshaiengineer" /></a> </p>
 
----
+- 🔭 I’m currently working on **Improving my skills in AI, Data Science & Machine Learning**
 
-## 🔭 I'm currently working on
+- 🌱 I’m currently learning **Power BI**
 
-📊 Data Science and Machine Learning projects using real-world datasets.
+- 👯 I’m looking to collaborate on **AI, Machine Learning & Data Science projects**
 
-🤖 Exploring Generative AI and AI Engineering.
+- 🤝 I’m looking for help with **Advanced Machine Learning & Generative AI**
 
-🌐 Building practical applications and improving my development skills.
+- 👨‍💻 All of my projects are available at [https://github.com/AnveshAIEngineer](https://github.com/AnveshAIEngineer)
 
----
+- 💬 Ask me about **Python, Data Analysis, Machine Learning & AI**
 
-## 🤝 I'm looking to collaborate on
+- 📫 How to reach me **anvesh.hirve.ai@gmail.com**
 
-- 🐍 Python projects
-- 📊 Data Science projects
-- 🤖 Machine Learning projects
-- 🧠 AI / Generative AI projects
-- 🌐 Open-source projects
+- ⚡ Fun fact **Coffee + Code = Productivity ☕💻**
 
----
-
-## 🆘 I'm looking for help with
-
-Improving my **Machine Learning, Generative AI, and AI Engineering** skills through real-world projects and collaboration.
-
----
-
-## 🌱 I'm currently learning
-
-- 🐍 Python
-- 📊 Data Analysis & EDA
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- 🔗 AI Engineering
-- 🌐 Web Scraping
-- 📈 Data Visualization
-
----
-
-## 💬 Ask me about
-
-**Python • Pandas • NumPy • Data Analysis • EDA • Web Scraping • Machine Learning**
-
----
-
-## ⚡ Fun fact
-
-I enjoy taking messy real-world data and turning it into meaningful insights. 📊
-
----
-
-# 🛠️ Tech Stack
-
-### Languages & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### Development Tools
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 📊 Featured Projects
-
-### 🚗 Used Car Market Analysis
-
-Analyzed used-car market data to identify pricing patterns, brand trends, fuel preferences, ownership patterns, and the relationship between mileage and price.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Web Scraping
-
----
-
-### 💻 Laptop Market Analysis
-
-Performed exploratory data analysis on laptop market data to understand pricing, brands, specifications, ratings, and different market segments.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
----
-
-### 🏍️ Bike Market Analysis
-
-Currently working on a Bike Market Analysis project involving web scraping, data cleaning, feature engineering, exploratory analysis, and business insights.
-
-**Tech:** Python • Requests • BeautifulSoup • Pandas • NumPy • Matplotlib • Seaborn
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnveshAIEngineer&show_icons=true&theme=default&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshAIEngineer&layout=compact&theme=default&hide_border=true" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AnveshAIEngineer&theme=default&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnveshAIEngineer&theme=flat&no-frame=true&margin-w=10" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="dist/github-snake.svg">
-</picture>
-
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnveshAIEngineer&theme=minimal&hide_border=true" />
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://github.com/AnveshAIEngineer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+<a href="https://linkedin.com/in/anvesh-hirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anvesh-hirve" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anvesh1407" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anvesh1407" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anvesh hirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anvesh hirve" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anveshhirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anveshhirve" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anvesh_hirve_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anvesh_hirve_ai" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-# 🎯 My Current Focus
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anveshaiengineer&show_icons=true&locale=en&layout=compact" alt="anveshaiengineer" /></p>
 
-```text
-Data Analysis
-      ↓
-Machine Learning
-      ↓
-Generative AI
-      ↓
-AI Engineering
-      ↓
-Real-World AI Applications
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anveshaiengineer&show_icons=true&locale=en" alt="anveshaiengineer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anveshaiengineer&" alt="anveshaiengineer" /></p>
