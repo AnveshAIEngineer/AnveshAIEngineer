@@ -40,20 +40,30 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRvucnL4lKXoKiNm5dTtZUqLFFNsmW8L8jdXQX7IaK2jBQ_-0-dnCclXO&s=10" width="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*PavIGBu7ofDoQqp4.jpg" width="60"/>
+  <img src="[https://miro.medium.com/v2/resize:fit:1400/0*PavIGBu7ofDoQqp4.jpg](https://edadata.com/wp-content/uploads/2025/10/EDA_Forest80-colortick.png)" width="60"/>
 </p>
-### 🕷️ Web Scraping
+
+🕷️ Web Scraping
 
 **BeautifulSoup • Requests • Regex • Web Scraping**
 
 ### 📈 Data Visualization
-
-**Matplotlib • Seaborn**
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwPpZSRTFpCA0GRx0AmgCdWF90XTJZ7EvgUCcreQ-ZwHFBih5voN2JuSB&s=10" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHidlb5Xziy7A_xGahsDYPehQO2YDpwxiklVB-Jt7DA&s=10" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ### ⚙️ Tools
-
-**Jupyter Notebook • Git • GitHub**
-
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pvYBtFxSjS0r8d3JBaoNi9lvPiEtGTJz9wjesi7o7Q&s=10" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrNQEr1BtPseqNiD50__K2MIGPmqUF0jAwKXJ_NTDiw&s" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1FpwP2xIIMwM8wrhFh0rLam42qIYB3lVKt6aHycjSA&s=10" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 ---
 
 ## 🚀 Featured Projects
