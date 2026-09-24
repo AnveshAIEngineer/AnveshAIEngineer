@@ -1,40 +1,154 @@
 <h1 align="center">Hi 👋, I'm Anvesh Hirve</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anveshaiengineer&label=Profile%20views&color=0e75b6&style=flat" alt="anveshaiengineer" /> </p>
+<h3 align="center">
+AI & Data Science Engineer | Machine Learning | Data Analytics | Generative AI
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anveshaiengineer" alt="anveshaiengineer" /></a> </p>
-
-- 🔭 I’m currently working on **Improving my skills in AI, Data Science & Machine Learning**
-
-- 🌱 I’m currently learning **Power BI**
-
-- 👯 I’m looking to collaborate on **AI, Machine Learning & Data Science projects**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning & Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AnveshAIEngineer](https://github.com/AnveshAIEngineer)
-
-- 💬 Ask me about **Python, Data Analysis, Machine Learning & AI**
-
-- 📫 How to reach me **anvesh.hirve.ai@gmail.com**
-
-- ⚡ Fun fact **Coffee + Code = Productivity ☕💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anvesh-hirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anvesh-hirve" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anvesh1407" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anvesh1407" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anvesh hirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anvesh hirve" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anveshhirve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anveshhirve" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@anvesh_hirve_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anvesh_hirve_ai" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/AnveshAIEngineer">
+    <img src="https://komarev.com/ghpvc/?username=AnveshAIEngineer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anveshaiengineer&show_icons=true&locale=en&layout=compact" alt="anveshaiengineer" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anveshaiengineer&show_icons=true&locale=en" alt="anveshaiengineer" /></p>
+- 🎓 B.Tech Computer Engineering – Artificial Intelligence & Data Science
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
+- 📊 Building projects in Data Analytics and Exploratory Data Analysis
+- 🐍 Working primarily with Python
+- 🌱 Currently learning Power BI and strengthening my Machine Learning skills
+- 💡 I learn best by building practical projects
+- ☕ Fun fact: Coffee + Code = Productivity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anveshaiengineer&" alt="anveshaiengineer" /></p>
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,fastapi,flask,aws" />
+</p>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="70" height="45" alt="Matplotlib"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Multi-AI Project
+
+AI-powered multi-agent application designed to handle different tasks using multiple AI agents.
+
+**Tech:** Python • Groq • LangChain • LangGraph • FastAPI • Streamlit
+
+[🔗 View Repository](https://github.com/AnveshAIEngineer/Multi-AI-Project)
+
+---
+
+### 🏥 Medical RAG Chatbot
+
+A Retrieval-Augmented Generation chatbot designed to answer questions using information from medical documents.
+
+**Tech:** Python • Groq • LangChain • FAISS • Flask
+
+[🔗 View Repository](https://github.com/AnveshAIEngineer/Medical-RAG-Chatbot)
+
+---
+
+### 🚗 Used Car Market Analysis
+
+Exploratory data analysis of used-car listings to identify pricing patterns, brand trends and market insights.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup
+
+[🔗 View Repository](https://github.com/AnveshAIEngineer/Used-Car-Analysis-using-Cars24)
+
+---
+
+### 💻 Laptop Market Analysis
+
+Data analysis project exploring laptop prices, brands, specifications and market segments.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+[🔗 View Repository](https://github.com/AnveshAIEngineer/Laptop-Market-Analysis---Flipkart)
+
+---
+
+### 🏍️ Bike Market Analysis
+
+Analysis of motorcycle market data including pricing, engine capacity, mileage, ratings and brands.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup
+
+[🔗 View Repository](https://github.com/AnveshAIEngineer/New-Bike-Market-Analysis---BikeWale)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnveshAIEngineer&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshAIEngineer&layout=compact&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnveshAIEngineer&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnveshAIEngineer&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnveshAIEngineer&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/anvesh-hirve-873b90367/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/anveshhirve/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/users/anvesh1407" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40" height="40" alt="CodeChef"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
