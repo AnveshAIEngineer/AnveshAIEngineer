@@ -30,14 +30,11 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
 
 ### 💻 Programming
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="60"/><br>
-      <b>Python</b>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="60"/>
+  <br>
+  <b>Python</b>
+</p>
 
 ### 📊 Data Analysis
 <table>
