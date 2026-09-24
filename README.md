@@ -130,7 +130,7 @@ Cloud & DevOps      ██████████████░░░░░░
   <a href="https://www.hackerrank.com/profile/anvesh_hirve_ai">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:anvesh.hirve.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
