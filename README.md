@@ -84,12 +84,10 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pvYBtFxSjS0r8d3JBaoNi9lvPiEtGTJz9wjesi7o7Q&s=10" width="50"/><br>
       <b>Jupyter Notebook</b>
     </td>
-
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrNQEr1BtPseqNiD50__K2MIGPmqUF0jAwKXJ_NTDiw&s" width="50"/><br>
       <b>Git</b>
     </td>
-
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1FpwP2xIIMwM8wrhFh0rLam42qIYB3lVKt6aHycjSA&s=10" width="50"/><br>
       <b>GitHub</b>
