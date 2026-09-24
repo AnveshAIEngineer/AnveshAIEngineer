@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/HackerRank-Anvesh_Hirve_AI-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/anvesh-hirve-873b90367">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgmCP5Pizu77hOFOB8yBldcGPEcxY2zQGYQvs7mbsEg&s=10" />
+    <img src="https://img.shields.io/badge/LinkedIn-Anvesh_Hirve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
