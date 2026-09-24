@@ -69,7 +69,6 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwPpZSRTFpCA0GRx0AmgCdWF90XTJZ7EvgUCcreQ-ZwHFBih5voN2JuSB&s=10" width="50"/><br>
       <b>Matplotlib</b>
     </td>
-
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHidlb5Xziy7A_xGahsDYPehQO2YDpwxiklVB-Jt7DA&s=10" width="50"/><br>
       <b>Seaborn</b>
