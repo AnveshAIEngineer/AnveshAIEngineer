@@ -43,17 +43,14 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3B4uddKsWsn2b6djQk2p_hCGRS0W10tQk3WKG3QDV_ZISxjRHHFiWaw&s=10" width="60"/><br>
       <b>Pandas</b>
     </td>
-
     <td align="center">
       <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="60"/><br>
       <b>NumPy</b>
     </td>
-
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRvucnL4lKXoKiNm5dTtZUqLFFNsmW8L8jdXQX7IaK2jBQ_-0-dnCclXO&s=10" width="60"/><br>
       <b>Data Cleaning</b>
     </td>
-
     <td align="center">
       <img src="https://edadata.com/wp-content/uploads/2025/10/EDA_Forest80-colortick.png" width="60"/><br>
       <b>EDA</b>
