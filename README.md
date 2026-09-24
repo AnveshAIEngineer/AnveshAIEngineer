@@ -30,55 +30,78 @@ I'm **Anvesh Hirve**, an **AI & Data Science Engineer** passionate about working
 
 ### 💻 Programming
 
-<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+      <b>Python</b>
+    </td>
+  </tr>
+</table>
 
 ### 📊 Data Analysis
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3B4uddKsWsn2b6djQk2p_hCGRS0W10tQk3WKG3QDV_ZISxjRHHFiWaw&s=10" width="60"/><br>
+      <b>Pandas</b>
+    </td>
 
-<p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3B4uddKsWsn2b6djQk2p_hCGRS0W10tQk3WKG3QDV_ZISxjRHHFiWaw&s=10" width="60"/>
-  <br>
-  <b>Pandas</b>
+    <td align="center">
+      <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="60"/><br>
+      <b>NumPy</b>
+    </td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRvucnL4lKXoKiNm5dTtZUqLFFNsmW8L8jdXQX7IaK2jBQ_-0-dnCclXO&s=10" width="60"/><br>
+      <b>Data Cleaning</b>
+    </td>
 
-  <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="60"/>
-  <br>
-  <b>NumPy</b>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRvucnL4lKXoKiNm5dTtZUqLFFNsmW8L8jdXQX7IaK2jBQ_-0-dnCclXO&s=10" width="60"/>
-  <br>
-  <b>Data Cleaning</b>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://edadata.com/wp-content/uploads/2025/10/EDA_Forest80-colortick.png" width="60"/>
-  <br>
-  <b>EDA</b>
-</p>
+    <td align="center">
+      <img src="https://edadata.com/wp-content/uploads/2025/10/EDA_Forest80-colortick.png" width="60"/><br>
+      <b>EDA</b>
+    </td>
+  </tr>
+</table>
 
 ### 🕷️ Web Scraping
 
 **BeautifulSoup • Requests • Regex • Web Scraping**
 
 ### 📈 Data Visualization
-<p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwPpZSRTFpCA0GRx0AmgCdWF90XTJZ7EvgUCcreQ-ZwHFBih5voN2JuSB&s=10" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHidlb5Xziy7A_xGahsDYPehQO2YDpwxiklVB-Jt7DA&s=10" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwPpZSRTFpCA0GRx0AmgCdWF90XTJZ7EvgUCcreQ-ZwHFBih5voN2JuSB&s=10" width="50"/><br>
+      <b>Matplotlib</b>
+    </td>
+
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHidlb5Xziy7A_xGahsDYPehQO2YDpwxiklVB-Jt7DA&s=10" width="50"/><br>
+      <b>Seaborn</b>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Tools
-<p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pvYBtFxSjS0r8d3JBaoNi9lvPiEtGTJz9wjesi7o7Q&s=10" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrNQEr1BtPseqNiD50__K2MIGPmqUF0jAwKXJ_NTDiw&s" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1FpwP2xIIMwM8wrhFh0rLam42qIYB3lVKt6aHycjSA&s=10" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pvYBtFxSjS0r8d3JBaoNi9lvPiEtGTJz9wjesi7o7Q&s=10" width="50"/><br>
+      <b>Jupyter Notebook</b>
+    </td>
+
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrNQEr1BtPseqNiD50__K2MIGPmqUF0jAwKXJ_NTDiw&s" width="50"/><br>
+      <b>Git</b>
+    </td>
+
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1FpwP2xIIMwM8wrhFh0rLam42qIYB3lVKt6aHycjSA&s=10" width="50"/><br>
+      <b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
