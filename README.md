@@ -9,7 +9,7 @@
   <a href="https://www.hackerrank.com/profile/anvesh_hirve_ai">
     <img src="https://img.shields.io/badge/HackerRank-Anvesh_Hirve_AI-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/anvesh-hirve-873b90367">
+  <a href="https://www.linkedin.com/in/anvesh-hirve-873b90367/">
     <img src="https://img.shields.io/badge/LinkedIn-Anvesh_Hirve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
