@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvesh Hirve</h1>
 
 <h3 align="center">
-AI & Data Science Engineer | Machine Learning | Data Analytics | Generative AI
+AI & Data Science Engineer | Python | Data Analytics | Machine Learning
 </h3>
 
 <p align="center">
@@ -14,57 +14,47 @@ AI & Data Science Engineer | Machine Learning | Data Analytics | Generative AI
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Engineering – Artificial Intelligence & Data Science
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
-- 📊 Building projects in Data Analytics and Exploratory Data Analysis
-- 🐍 Working primarily with Python
+- 🎓 B.Tech in Computer Engineering – Artificial Intelligence & Data Science
+- 🐍 Interested in Python, Data Analytics, Machine Learning and AI
+- 📊 Currently building practical Data Analysis and EDA projects
 - 🌱 Currently learning Power BI and strengthening my Machine Learning skills
-- 💡 I learn best by building practical projects
+- 💡 I learn best by building and experimenting with real-world datasets
 - ☕ Fun fact: Coffee + Code = Productivity
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
+
+### Programming & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,fastapi,flask,aws" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn"/>
 </p>
+
+### Web Scraping
 
 <p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="70" height="45" alt="Matplotlib"/>
-
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" width="50" alt="BeautifulSoup"/>
 </p>
+
+**BeautifulSoup • Requests • Regex • Web Scraping**
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jupyter,git,github" alt="Tools"/>
+</p>
+
+**Jupyter Notebook • Git • GitHub**
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 Multi-AI Project
-
-AI-powered multi-agent application designed to handle different tasks using multiple AI agents.
-
-**Tech:** Python • Groq • LangChain • LangGraph • FastAPI • Streamlit
-
-[🔗 View Repository](https://github.com/AnveshAIEngineer/Multi-AI-Project)
-
----
-
-### 🏥 Medical RAG Chatbot
-
-A Retrieval-Augmented Generation chatbot designed to answer questions using information from medical documents.
-
-**Tech:** Python • Groq • LangChain • FAISS • Flask
-
-[🔗 View Repository](https://github.com/AnveshAIEngineer/Medical-RAG-Chatbot)
-
----
 
 ### 🚗 Used Car Market Analysis
 
@@ -72,7 +62,7 @@ Exploratory data analysis of used-car listings to identify pricing patterns, bra
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup
 
-[🔗 View Repository](https://github.com/AnveshAIEngineer/Used-Car-Analysis-using-Cars24)
+🔗 [View Repository](https://github.com/AnveshAIEngineer/Used-Car-Analysis-using-Cars24)
 
 ---
 
@@ -82,7 +72,7 @@ Data analysis project exploring laptop prices, brands, specifications and market
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-[🔗 View Repository](https://github.com/AnveshAIEngineer/Laptop-Market-Analysis---Flipkart)
+🔗 [View Repository](https://github.com/AnveshAIEngineer/Laptop-Market-Analysis---Flipkart)
 
 ---
 
@@ -92,7 +82,7 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup
 
-[🔗 View Repository](https://github.com/AnveshAIEngineer/New-Bike-Market-Analysis---BikeWale)
+🔗 [View Repository](https://github.com/AnveshAIEngineer/New-Bike-Market-Analysis---BikeWale)
 
 ---
 
@@ -113,10 +103,10 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnveshAIEngineer&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnveshAIEngineer&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -129,16 +119,16 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/anvesh-hirve-873b90367/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/anvesh-hirve" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 
-<a href="https://leetcode.com/anveshhirve/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
+<a href="https://www.leetcode.com/anveshhirve" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
 </a>
 
 <a href="https://www.codechef.com/users/anvesh1407" target="_blank">
@@ -150,5 +140,5 @@ Analysis of motorcycle market data including pricing, engine capacity, mileage, 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <i>Building, learning, and improving one project at a time.</i>
 </p>
